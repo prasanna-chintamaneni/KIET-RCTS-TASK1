@@ -1,0 +1,48 @@
+/* Navbar.css */
+.navbar-container {
+  width: 1920px;
+  height: 160px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.navbar-bg1 {
+  width: 1920px;
+  height: 160px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #6789BB;
+}
+
+.navbar-bg2 {
+  width: 758px;
+  height: 160px;
+  left: 1162px;
+  top: 0px;
+  position: absolute;
+  background: #4B6488;
+}
+
+.navbar-bg3 {
+  width: 395px;
+  height: 160px;
+  left: 1525px;
+  top: 0px;
+  position: absolute;
+  background: #2D3B51;
+}
+
+.navbar-text {
+  width: 800px;
+  height: 72px;
+  left: 72px;
+  top: 44px;
+  position: absolute;
+  color: white;
+  font-size: 48px;
+  font-family: Roboto;
+  font-weight: 700;
+  word-wrap: break-word;
+}

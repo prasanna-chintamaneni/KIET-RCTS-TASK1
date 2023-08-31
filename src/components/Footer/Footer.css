@@ -1,0 +1,41 @@
+   .footer-section1 {
+    width:1920px;
+      height:80px;
+      left:0px;
+      top:960px;
+      position: absolute;
+      background : #4B6488;
+    
+    }
+    
+    .footer-image {
+    width:48px;
+      height:48px;
+      left:1840px;
+      top:16px;
+      position: absolute;
+    }
+    
+    .footer-section2 {
+    width:1920px;
+      height:40px;
+      left:0px;
+      top:1040px;
+      position: absolute;
+      background : #2D3B51;
+    }
+    .footer_container{
+      width:800px;
+      height: 36px;
+      left: 560px;
+      top: 2px;
+      position: absolute;
+      text-align: center;
+      color: white;
+      font-size: 16px;
+      font-family: Roboto;
+      font-weight: 300;
+      text-transform: capitalize;
+      letter-spacing: 0.64px;
+      word-wrap: break-word;
+      }

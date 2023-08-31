@@ -1,0 +1,26 @@
+/* Apply basic styling to the whole app */
+.App {
+  font-family: Arial, sans-serif;
+  /* text-align: center; */
+}
+
+/* Create a responsive layout for the content */
+.Content {
+  padding: 20px;
+}
+
+/* Tablet view (up to 768px width) */
+@media (max-width: 768px) {
+  .Content {
+    padding: 10px;
+    display: block; /* Change layout to stacked for tablet view */
+  }
+}
+
+/* Mobile view (up to 576px width) */
+@media (max-width: 576px) {
+  .Content {
+    padding: 10px;
+    display: block; /* Change layout to stacked for mobile view */
+  }
+}
